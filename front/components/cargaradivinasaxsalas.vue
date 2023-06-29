@@ -158,7 +158,7 @@ export default {
     },
     deleteItem(item) {
     // Realizar solicitud DELETE al servidor para eliminar la adivinanza
-      const salaId = item.id;
+      const  adivinanzaId = item.id;
         this.$swal.fire({
           title: 'Estas Seguro?',
           text: "No podras revertir esto!",
