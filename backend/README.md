@@ -10,7 +10,7 @@
 # Ejecuta las migraciones y los seeder
 #$ php artisan migrate 
 #$ php artisan migrate --seed
-#Ejecuta el servidor de laravel 
+# Ejecuta el servidor de laravel 
 #php artisan serve
 # Ejecuta el servidor websockets
-# php artisan websockets:serve
+#php artisan websockets:serve
